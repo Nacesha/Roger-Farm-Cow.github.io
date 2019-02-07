@@ -1,1 +1,15 @@
-theme: jekyll-theme-merlot
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "HTML internal links"</title>
+    </head>
+    <body>
+    
+        <h1> Shelter Belt Lane Natural Meats</h1>
+       
+        <p> Shelter Belt Lane Natural Meat's is the place to go, were the price is low. Fresh cow meat of all types.</p>
+    
+        <p>
+        <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/04/1024px-Cow-IMG_2050-640x480.jpg" width="200">
+        </p>
