@@ -7,18 +7,16 @@
     <style>
         body {
         background-color:rgb(207, 170, 97);
+        text-align:center;
      }
      h1 {
          color:green;
-          text-align: center;
      }
      p {
          color:green;
-          text-align: center;
-     }
+      }
      table {
          color:green;
-          text-align: center;
      }
     </style>
     <body>
